@@ -1,0 +1,12 @@
+{
+    "name": "kaprieff/work16",
+    "description": "Система учёта студентов и оценок",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {}
+}
